@@ -1,0 +1,17 @@
+
+body {
+    font-family: Arial;
+    
+}
+
+.centered {
+    text-align: center;
+}
+
+.container {
+    border: 2px solid black;
+}
+
+#p1 {
+    color: darkgreen;
+}
